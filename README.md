@@ -76,6 +76,7 @@ CrimeGraph is a modern **AI-driven crime analytics and visualization platform** 
 ---
 
 ## 🏗️ System Architecture
+```
 
 ┌─────────────────────────────────────────────────────┐
 │ FRONTEND (React) │
@@ -100,7 +101,7 @@ CrimeGraph is a modern **AI-driven crime analytics and visualization platform** 
 │ CaseMaster │ Accused │ Victim │ District            │
 │ ArrestSurrender │ ChargesheetDetails │ ...          │
 └─────────────────────────────────────────────────────┘
-
+```
 
 ---
 
@@ -121,7 +122,7 @@ CrimeGraph is a modern **AI-driven crime analytics and visualization platform** 
 ---
 
 ## 📁 Project Structure
-
+```
 CRIMEGRAPH/
 │
 ├── frontend/ # React frontend
@@ -159,7 +160,7 @@ CRIMEGRAPH/
 ├── RISK_SCORING_RESULTS.md # Model evaluation & methodology
 └── README.md
 
-
+```
 ---
 
 ## 🚀 Getting Started
