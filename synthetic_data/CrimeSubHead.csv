@@ -1,0 +1,29 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,SeqID
+1,1,Murder,1
+2,1,Attempt to Murder,2
+3,1,Culpable Homicide Not Amounting to Murder,3
+4,1,Grievous Hurt,4
+5,1,Simple Hurt,5
+6,1,Kidnapping & Abduction,6
+7,2,Rape,1
+8,2,Assault on Women (Outrage Modesty),2
+9,2,Cruelty by Husband/Relatives,3
+10,2,Dowry Death,4
+11,2,Insult to Modesty of Women,5
+12,3,Theft,1
+13,3,Auto Theft,2
+14,3,Burglary,3
+15,3,Robbery,4
+16,3,Dacoity,5
+17,3,Criminal Breach of Trust,6
+18,4,Cheating,1
+19,4,Counterfeiting,2
+20,4,Cyber Fraud,3
+21,4,Criminal Breach of Trust (Financial),4
+22,5,Riots,1
+23,5,Arson,2
+24,5,Unlawful Assembly,3
+25,6,NDPS Offence,1
+26,6,Arms Act Offence,2
+27,6,POCSO Offence,3
+28,6,Excise Act Offence,4

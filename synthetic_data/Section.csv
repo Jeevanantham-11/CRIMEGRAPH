@@ -1,0 +1,30 @@
+ActCode,SectionCode,SectionDescription,Active
+IPC,302,Murder,1
+BNS,103,Murder,1
+IPC,307,Attempt to Murder,1
+BNS,109,Attempt to Murder,1
+IPC,304,Culpable Homicide Not Amounting to Murder,1
+IPC,323,Simple Hurt,1
+IPC,326,Grievous Hurt (Dangerous Weapon),1
+IPC,363,Kidnapping,1
+IPC,376,Rape,1
+BNS,64,Rape,1
+IPC,354,Assault on Woman - Outrage Modesty,1
+IPC,498A,Cruelty by Husband or Relatives,1
+IPC,304B,Dowry Death,1
+IPC,379,Theft,1
+IPC,379A,Auto Theft,1
+IPC,380,Burglary,1
+IPC,392,Robbery,1
+IPC,395,Dacoity,1
+IPC,406,Criminal Breach of Trust,1
+IPC,420,Cheating,1
+IPC,489A,Counterfeiting Currency,1
+IPC,66D-ITACT,Cyber Fraud (IT Act r/w IPC 420),1
+IPC,147,Riot,1
+IPC,436,Arson,1
+IPC,144,Unlawful Assembly,1
+NDPS,20,Possession/Sale of Narcotics,1
+ARMS,25,Illegal Possession of Arms,1
+POCSO,4,Penetrative Sexual Assault on Child,1
+ARMS,27,Use of Arms in Commission of Offence,1

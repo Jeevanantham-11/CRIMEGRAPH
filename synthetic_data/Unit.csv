@@ -1,0 +1,1135 @@
+UnitID,UnitName,TypeID,ParentUnit,NationalityID,StateID,DistrictID,Active
+1,"SP Office, Bengaluru Urban",3,,1,1,1,1
+2,"SP Office, Bengaluru Rural",3,,1,1,2,1
+3,"SP Office, Mysuru",3,,1,1,3,1
+4,"SP Office, Belagavi",3,,1,1,4,1
+5,"SP Office, Kalaburagi",3,,1,1,5,1
+6,"SP Office, Tumakuru",3,,1,1,6,1
+7,"SP Office, Ballari",3,,1,1,7,1
+8,"SP Office, Vijayapura",3,,1,1,8,1
+9,"SP Office, Dharwad",3,,1,1,9,1
+10,"SP Office, Dakshina Kannada",3,,1,1,10,1
+11,"SP Office, Shivamogga",3,,1,1,11,1
+12,"SP Office, Mandya",3,,1,1,12,1
+13,"SP Office, Hassan",3,,1,1,13,1
+14,"SP Office, Raichur",3,,1,1,14,1
+15,"SP Office, Bidar",3,,1,1,15,1
+16,"SP Office, Bagalkote",3,,1,1,16,1
+17,"SP Office, Chitradurga",3,,1,1,17,1
+18,"SP Office, Kolar",3,,1,1,18,1
+19,"SP Office, Udupi",3,,1,1,19,1
+20,"SP Office, Davanagere",3,,1,1,20,1
+21,"SP Office, Chikkamagaluru",3,,1,1,21,1
+22,"SP Office, Koppal",3,,1,1,22,1
+23,"SP Office, Haveri",3,,1,1,23,1
+24,"SP Office, Chamarajanagara",3,,1,1,24,1
+25,"SP Office, Gadag",3,,1,1,25,1
+26,"SP Office, Uttara Kannada",3,,1,1,26,1
+27,"SP Office, Yadgir",3,,1,1,27,1
+28,"SP Office, Kodagu",3,,1,1,28,1
+29,"SP Office, Chikkaballapura",3,,1,1,29,1
+30,"SP Office, Ramanagara",3,,1,1,30,1
+31,"SP Office, Vijayanagara",3,,1,1,31,1
+32,Bengaluru Urban PS-1,5,1.0,1,1,1,1
+33,Bengaluru Urban PS-2,5,1.0,1,1,1,1
+34,Bengaluru Urban PS-3,5,1.0,1,1,1,1
+35,Bengaluru Urban PS-4,5,1.0,1,1,1,1
+36,Bengaluru Urban PS-5,5,1.0,1,1,1,1
+37,Bengaluru Urban PS-6,5,1.0,1,1,1,1
+38,Bengaluru Urban PS-7,5,1.0,1,1,1,1
+39,Bengaluru Urban PS-8,5,1.0,1,1,1,1
+40,Bengaluru Urban PS-9,5,1.0,1,1,1,1
+41,Bengaluru Urban PS-10,5,1.0,1,1,1,1
+42,Bengaluru Urban PS-11,5,1.0,1,1,1,1
+43,Bengaluru Urban PS-12,5,1.0,1,1,1,1
+44,Bengaluru Urban PS-13,5,1.0,1,1,1,1
+45,Bengaluru Urban PS-14,5,1.0,1,1,1,1
+46,Bengaluru Urban PS-15,5,1.0,1,1,1,1
+47,Bengaluru Urban PS-16,5,1.0,1,1,1,1
+48,Bengaluru Urban PS-17,5,1.0,1,1,1,1
+49,Bengaluru Urban PS-18,5,1.0,1,1,1,1
+50,Bengaluru Urban PS-19,5,1.0,1,1,1,1
+51,Bengaluru Urban PS-20,5,1.0,1,1,1,1
+52,Bengaluru Urban PS-21,5,1.0,1,1,1,1
+53,Bengaluru Urban PS-22,5,1.0,1,1,1,1
+54,Bengaluru Urban PS-23,5,1.0,1,1,1,1
+55,Bengaluru Urban PS-24,5,1.0,1,1,1,1
+56,Bengaluru Urban PS-25,5,1.0,1,1,1,1
+57,Bengaluru Urban PS-26,5,1.0,1,1,1,1
+58,Bengaluru Urban PS-27,5,1.0,1,1,1,1
+59,Bengaluru Urban PS-28,5,1.0,1,1,1,1
+60,Bengaluru Urban PS-29,5,1.0,1,1,1,1
+61,Bengaluru Urban PS-30,5,1.0,1,1,1,1
+62,Bengaluru Urban PS-31,5,1.0,1,1,1,1
+63,Bengaluru Urban PS-32,5,1.0,1,1,1,1
+64,Bengaluru Urban PS-33,5,1.0,1,1,1,1
+65,Bengaluru Urban PS-34,5,1.0,1,1,1,1
+66,Bengaluru Urban PS-35,5,1.0,1,1,1,1
+67,Bengaluru Urban PS-36,5,1.0,1,1,1,1
+68,Bengaluru Urban PS-37,5,1.0,1,1,1,1
+69,Bengaluru Urban PS-38,5,1.0,1,1,1,1
+70,Bengaluru Urban PS-39,5,1.0,1,1,1,1
+71,Bengaluru Urban PS-40,5,1.0,1,1,1,1
+72,Bengaluru Urban PS-41,5,1.0,1,1,1,1
+73,Bengaluru Urban PS-42,5,1.0,1,1,1,1
+74,Bengaluru Urban PS-43,5,1.0,1,1,1,1
+75,Bengaluru Urban PS-44,5,1.0,1,1,1,1
+76,Bengaluru Urban PS-45,5,1.0,1,1,1,1
+77,Bengaluru Urban PS-46,5,1.0,1,1,1,1
+78,Bengaluru Urban PS-47,5,1.0,1,1,1,1
+79,Bengaluru Urban PS-48,5,1.0,1,1,1,1
+80,Bengaluru Urban PS-49,5,1.0,1,1,1,1
+81,Bengaluru Urban PS-50,5,1.0,1,1,1,1
+82,Bengaluru Urban PS-51,5,1.0,1,1,1,1
+83,Bengaluru Urban PS-52,5,1.0,1,1,1,1
+84,Bengaluru Urban PS-53,5,1.0,1,1,1,1
+85,Bengaluru Urban PS-54,5,1.0,1,1,1,1
+86,Bengaluru Urban PS-55,5,1.0,1,1,1,1
+87,Bengaluru Urban PS-56,5,1.0,1,1,1,1
+88,Bengaluru Urban PS-57,5,1.0,1,1,1,1
+89,Bengaluru Urban PS-58,5,1.0,1,1,1,1
+90,Bengaluru Urban PS-59,5,1.0,1,1,1,1
+91,Bengaluru Urban PS-60,5,1.0,1,1,1,1
+92,Bengaluru Urban PS-61,5,1.0,1,1,1,1
+93,Bengaluru Urban PS-62,5,1.0,1,1,1,1
+94,Bengaluru Urban PS-63,5,1.0,1,1,1,1
+95,Bengaluru Urban PS-64,5,1.0,1,1,1,1
+96,Bengaluru Urban PS-65,5,1.0,1,1,1,1
+97,Bengaluru Urban PS-66,5,1.0,1,1,1,1
+98,Bengaluru Urban PS-67,5,1.0,1,1,1,1
+99,Bengaluru Urban PS-68,5,1.0,1,1,1,1
+100,Bengaluru Urban PS-69,5,1.0,1,1,1,1
+101,Bengaluru Urban PS-70,5,1.0,1,1,1,1
+102,Bengaluru Urban PS-71,5,1.0,1,1,1,1
+103,Bengaluru Urban PS-72,5,1.0,1,1,1,1
+104,Bengaluru Urban PS-73,5,1.0,1,1,1,1
+105,Bengaluru Urban PS-74,5,1.0,1,1,1,1
+106,Bengaluru Urban PS-75,5,1.0,1,1,1,1
+107,Bengaluru Urban PS-76,5,1.0,1,1,1,1
+108,Bengaluru Urban PS-77,5,1.0,1,1,1,1
+109,Bengaluru Urban PS-78,5,1.0,1,1,1,1
+110,Bengaluru Urban PS-79,5,1.0,1,1,1,1
+111,Bengaluru Urban PS-80,5,1.0,1,1,1,1
+112,Bengaluru Urban PS-81,5,1.0,1,1,1,1
+113,Bengaluru Urban PS-82,5,1.0,1,1,1,1
+114,Bengaluru Urban PS-83,5,1.0,1,1,1,1
+115,Bengaluru Urban PS-84,5,1.0,1,1,1,1
+116,Bengaluru Urban PS-85,5,1.0,1,1,1,1
+117,Bengaluru Urban PS-86,5,1.0,1,1,1,1
+118,Bengaluru Urban PS-87,5,1.0,1,1,1,1
+119,Bengaluru Urban PS-88,5,1.0,1,1,1,1
+120,Bengaluru Urban PS-89,5,1.0,1,1,1,1
+121,Bengaluru Urban PS-90,5,1.0,1,1,1,1
+122,Bengaluru Urban PS-91,5,1.0,1,1,1,1
+123,Bengaluru Urban PS-92,5,1.0,1,1,1,1
+124,Bengaluru Urban PS-93,5,1.0,1,1,1,1
+125,Bengaluru Urban PS-94,5,1.0,1,1,1,1
+126,Bengaluru Urban PS-95,5,1.0,1,1,1,1
+127,Bengaluru Urban PS-96,5,1.0,1,1,1,1
+128,Bengaluru Urban PS-97,5,1.0,1,1,1,1
+129,Bengaluru Urban PS-98,5,1.0,1,1,1,1
+130,Bengaluru Urban PS-99,5,1.0,1,1,1,1
+131,Bengaluru Urban PS-100,5,1.0,1,1,1,1
+132,Bengaluru Urban PS-101,5,1.0,1,1,1,1
+133,Bengaluru Urban PS-102,5,1.0,1,1,1,1
+134,Bengaluru Urban PS-103,5,1.0,1,1,1,1
+135,Bengaluru Urban PS-104,5,1.0,1,1,1,1
+136,Bengaluru Urban PS-105,5,1.0,1,1,1,1
+137,Bengaluru Urban PS-106,5,1.0,1,1,1,1
+138,Bengaluru Urban PS-107,5,1.0,1,1,1,1
+139,Bengaluru Urban PS-108,5,1.0,1,1,1,1
+140,Bengaluru Urban PS-109,5,1.0,1,1,1,1
+141,Bengaluru Urban PS-110,5,1.0,1,1,1,1
+142,Bengaluru Urban PS-111,5,1.0,1,1,1,1
+143,Bengaluru Urban PS-112,5,1.0,1,1,1,1
+144,Bengaluru Urban PS-113,5,1.0,1,1,1,1
+145,Bengaluru Urban PS-114,5,1.0,1,1,1,1
+146,Bengaluru Urban PS-115,5,1.0,1,1,1,1
+147,Bengaluru Urban PS-116,5,1.0,1,1,1,1
+148,Bengaluru Urban PS-117,5,1.0,1,1,1,1
+149,Bengaluru Urban PS-118,5,1.0,1,1,1,1
+150,Bengaluru Urban PS-119,5,1.0,1,1,1,1
+151,Bengaluru Urban PS-120,5,1.0,1,1,1,1
+152,Bengaluru Urban PS-121,5,1.0,1,1,1,1
+153,Bengaluru Urban PS-122,5,1.0,1,1,1,1
+154,Bengaluru Urban PS-123,5,1.0,1,1,1,1
+155,Bengaluru Urban PS-124,5,1.0,1,1,1,1
+156,Bengaluru Urban PS-125,5,1.0,1,1,1,1
+157,Bengaluru Urban PS-126,5,1.0,1,1,1,1
+158,Bengaluru Urban PS-127,5,1.0,1,1,1,1
+159,Bengaluru Urban PS-128,5,1.0,1,1,1,1
+160,Bengaluru Urban PS-129,5,1.0,1,1,1,1
+161,Bengaluru Urban PS-130,5,1.0,1,1,1,1
+162,Bengaluru Urban PS-131,5,1.0,1,1,1,1
+163,Bengaluru Urban PS-132,5,1.0,1,1,1,1
+164,Bengaluru Urban PS-133,5,1.0,1,1,1,1
+165,Bengaluru Urban PS-134,5,1.0,1,1,1,1
+166,Bengaluru Urban PS-135,5,1.0,1,1,1,1
+167,Bengaluru Urban PS-136,5,1.0,1,1,1,1
+168,Bengaluru Urban PS-137,5,1.0,1,1,1,1
+169,Bengaluru Urban PS-138,5,1.0,1,1,1,1
+170,Bengaluru Urban PS-139,5,1.0,1,1,1,1
+171,Bengaluru Urban PS-140,5,1.0,1,1,1,1
+172,Bengaluru Urban PS-141,5,1.0,1,1,1,1
+173,Bengaluru Urban PS-142,5,1.0,1,1,1,1
+174,Bengaluru Urban PS-143,5,1.0,1,1,1,1
+175,Bengaluru Urban PS-144,5,1.0,1,1,1,1
+176,Bengaluru Urban PS-145,5,1.0,1,1,1,1
+177,Bengaluru Urban PS-146,5,1.0,1,1,1,1
+178,Bengaluru Urban PS-147,5,1.0,1,1,1,1
+179,Bengaluru Urban PS-148,5,1.0,1,1,1,1
+180,Bengaluru Urban PS-149,5,1.0,1,1,1,1
+181,Bengaluru Urban PS-150,5,1.0,1,1,1,1
+182,Bengaluru Urban PS-151,5,1.0,1,1,1,1
+183,Bengaluru Urban PS-152,5,1.0,1,1,1,1
+184,Bengaluru Urban PS-153,5,1.0,1,1,1,1
+185,Bengaluru Urban PS-154,5,1.0,1,1,1,1
+186,Bengaluru Urban PS-155,5,1.0,1,1,1,1
+187,Bengaluru Urban PS-156,5,1.0,1,1,1,1
+188,Bengaluru Urban PS-157,5,1.0,1,1,1,1
+189,Bengaluru Urban PS-158,5,1.0,1,1,1,1
+190,Bengaluru Urban PS-159,5,1.0,1,1,1,1
+191,Bengaluru Urban PS-160,5,1.0,1,1,1,1
+192,Bengaluru Urban PS-161,5,1.0,1,1,1,1
+193,Bengaluru Urban PS-162,5,1.0,1,1,1,1
+194,Bengaluru Urban PS-163,5,1.0,1,1,1,1
+195,Bengaluru Urban PS-164,5,1.0,1,1,1,1
+196,Bengaluru Urban PS-165,5,1.0,1,1,1,1
+197,Bengaluru Urban PS-166,5,1.0,1,1,1,1
+198,Bengaluru Urban PS-167,5,1.0,1,1,1,1
+199,Bengaluru Urban PS-168,5,1.0,1,1,1,1
+200,Bengaluru Urban PS-169,5,1.0,1,1,1,1
+201,Bengaluru Rural PS-1,5,2.0,1,1,2,1
+202,Bengaluru Rural PS-2,5,2.0,1,1,2,1
+203,Bengaluru Rural PS-3,5,2.0,1,1,2,1
+204,Bengaluru Rural PS-4,5,2.0,1,1,2,1
+205,Bengaluru Rural PS-5,5,2.0,1,1,2,1
+206,Bengaluru Rural PS-6,5,2.0,1,1,2,1
+207,Bengaluru Rural PS-7,5,2.0,1,1,2,1
+208,Bengaluru Rural PS-8,5,2.0,1,1,2,1
+209,Bengaluru Rural PS-9,5,2.0,1,1,2,1
+210,Bengaluru Rural PS-10,5,2.0,1,1,2,1
+211,Bengaluru Rural PS-11,5,2.0,1,1,2,1
+212,Bengaluru Rural PS-12,5,2.0,1,1,2,1
+213,Bengaluru Rural PS-13,5,2.0,1,1,2,1
+214,Bengaluru Rural PS-14,5,2.0,1,1,2,1
+215,Bengaluru Rural PS-15,5,2.0,1,1,2,1
+216,Bengaluru Rural PS-16,5,2.0,1,1,2,1
+217,Bengaluru Rural PS-17,5,2.0,1,1,2,1
+218,Bengaluru Rural PS-18,5,2.0,1,1,2,1
+219,Mysuru PS-1,5,3.0,1,1,3,1
+220,Mysuru PS-2,5,3.0,1,1,3,1
+221,Mysuru PS-3,5,3.0,1,1,3,1
+222,Mysuru PS-4,5,3.0,1,1,3,1
+223,Mysuru PS-5,5,3.0,1,1,3,1
+224,Mysuru PS-6,5,3.0,1,1,3,1
+225,Mysuru PS-7,5,3.0,1,1,3,1
+226,Mysuru PS-8,5,3.0,1,1,3,1
+227,Mysuru PS-9,5,3.0,1,1,3,1
+228,Mysuru PS-10,5,3.0,1,1,3,1
+229,Mysuru PS-11,5,3.0,1,1,3,1
+230,Mysuru PS-12,5,3.0,1,1,3,1
+231,Mysuru PS-13,5,3.0,1,1,3,1
+232,Mysuru PS-14,5,3.0,1,1,3,1
+233,Mysuru PS-15,5,3.0,1,1,3,1
+234,Mysuru PS-16,5,3.0,1,1,3,1
+235,Mysuru PS-17,5,3.0,1,1,3,1
+236,Mysuru PS-18,5,3.0,1,1,3,1
+237,Mysuru PS-19,5,3.0,1,1,3,1
+238,Mysuru PS-20,5,3.0,1,1,3,1
+239,Mysuru PS-21,5,3.0,1,1,3,1
+240,Mysuru PS-22,5,3.0,1,1,3,1
+241,Mysuru PS-23,5,3.0,1,1,3,1
+242,Mysuru PS-24,5,3.0,1,1,3,1
+243,Mysuru PS-25,5,3.0,1,1,3,1
+244,Mysuru PS-26,5,3.0,1,1,3,1
+245,Mysuru PS-27,5,3.0,1,1,3,1
+246,Mysuru PS-28,5,3.0,1,1,3,1
+247,Mysuru PS-29,5,3.0,1,1,3,1
+248,Mysuru PS-30,5,3.0,1,1,3,1
+249,Mysuru PS-31,5,3.0,1,1,3,1
+250,Mysuru PS-32,5,3.0,1,1,3,1
+251,Mysuru PS-33,5,3.0,1,1,3,1
+252,Mysuru PS-34,5,3.0,1,1,3,1
+253,Mysuru PS-35,5,3.0,1,1,3,1
+254,Mysuru PS-36,5,3.0,1,1,3,1
+255,Mysuru PS-37,5,3.0,1,1,3,1
+256,Mysuru PS-38,5,3.0,1,1,3,1
+257,Mysuru PS-39,5,3.0,1,1,3,1
+258,Mysuru PS-40,5,3.0,1,1,3,1
+259,Mysuru PS-41,5,3.0,1,1,3,1
+260,Mysuru PS-42,5,3.0,1,1,3,1
+261,Mysuru PS-43,5,3.0,1,1,3,1
+262,Mysuru PS-44,5,3.0,1,1,3,1
+263,Mysuru PS-45,5,3.0,1,1,3,1
+264,Mysuru PS-46,5,3.0,1,1,3,1
+265,Mysuru PS-47,5,3.0,1,1,3,1
+266,Mysuru PS-48,5,3.0,1,1,3,1
+267,Mysuru PS-49,5,3.0,1,1,3,1
+268,Mysuru PS-50,5,3.0,1,1,3,1
+269,Mysuru PS-51,5,3.0,1,1,3,1
+270,Mysuru PS-52,5,3.0,1,1,3,1
+271,Mysuru PS-53,5,3.0,1,1,3,1
+272,Belagavi PS-1,5,4.0,1,1,4,1
+273,Belagavi PS-2,5,4.0,1,1,4,1
+274,Belagavi PS-3,5,4.0,1,1,4,1
+275,Belagavi PS-4,5,4.0,1,1,4,1
+276,Belagavi PS-5,5,4.0,1,1,4,1
+277,Belagavi PS-6,5,4.0,1,1,4,1
+278,Belagavi PS-7,5,4.0,1,1,4,1
+279,Belagavi PS-8,5,4.0,1,1,4,1
+280,Belagavi PS-9,5,4.0,1,1,4,1
+281,Belagavi PS-10,5,4.0,1,1,4,1
+282,Belagavi PS-11,5,4.0,1,1,4,1
+283,Belagavi PS-12,5,4.0,1,1,4,1
+284,Belagavi PS-13,5,4.0,1,1,4,1
+285,Belagavi PS-14,5,4.0,1,1,4,1
+286,Belagavi PS-15,5,4.0,1,1,4,1
+287,Belagavi PS-16,5,4.0,1,1,4,1
+288,Belagavi PS-17,5,4.0,1,1,4,1
+289,Belagavi PS-18,5,4.0,1,1,4,1
+290,Belagavi PS-19,5,4.0,1,1,4,1
+291,Belagavi PS-20,5,4.0,1,1,4,1
+292,Belagavi PS-21,5,4.0,1,1,4,1
+293,Belagavi PS-22,5,4.0,1,1,4,1
+294,Belagavi PS-23,5,4.0,1,1,4,1
+295,Belagavi PS-24,5,4.0,1,1,4,1
+296,Belagavi PS-25,5,4.0,1,1,4,1
+297,Belagavi PS-26,5,4.0,1,1,4,1
+298,Belagavi PS-27,5,4.0,1,1,4,1
+299,Belagavi PS-28,5,4.0,1,1,4,1
+300,Belagavi PS-29,5,4.0,1,1,4,1
+301,Belagavi PS-30,5,4.0,1,1,4,1
+302,Belagavi PS-31,5,4.0,1,1,4,1
+303,Belagavi PS-32,5,4.0,1,1,4,1
+304,Belagavi PS-33,5,4.0,1,1,4,1
+305,Belagavi PS-34,5,4.0,1,1,4,1
+306,Belagavi PS-35,5,4.0,1,1,4,1
+307,Belagavi PS-36,5,4.0,1,1,4,1
+308,Belagavi PS-37,5,4.0,1,1,4,1
+309,Belagavi PS-38,5,4.0,1,1,4,1
+310,Belagavi PS-39,5,4.0,1,1,4,1
+311,Belagavi PS-40,5,4.0,1,1,4,1
+312,Belagavi PS-41,5,4.0,1,1,4,1
+313,Belagavi PS-42,5,4.0,1,1,4,1
+314,Belagavi PS-43,5,4.0,1,1,4,1
+315,Belagavi PS-44,5,4.0,1,1,4,1
+316,Belagavi PS-45,5,4.0,1,1,4,1
+317,Belagavi PS-46,5,4.0,1,1,4,1
+318,Belagavi PS-47,5,4.0,1,1,4,1
+319,Belagavi PS-48,5,4.0,1,1,4,1
+320,Belagavi PS-49,5,4.0,1,1,4,1
+321,Belagavi PS-50,5,4.0,1,1,4,1
+322,Belagavi PS-51,5,4.0,1,1,4,1
+323,Belagavi PS-52,5,4.0,1,1,4,1
+324,Belagavi PS-53,5,4.0,1,1,4,1
+325,Belagavi PS-54,5,4.0,1,1,4,1
+326,Belagavi PS-55,5,4.0,1,1,4,1
+327,Belagavi PS-56,5,4.0,1,1,4,1
+328,Belagavi PS-57,5,4.0,1,1,4,1
+329,Belagavi PS-58,5,4.0,1,1,4,1
+330,Belagavi PS-59,5,4.0,1,1,4,1
+331,Belagavi PS-60,5,4.0,1,1,4,1
+332,Belagavi PS-61,5,4.0,1,1,4,1
+333,Belagavi PS-62,5,4.0,1,1,4,1
+334,Belagavi PS-63,5,4.0,1,1,4,1
+335,Belagavi PS-64,5,4.0,1,1,4,1
+336,Belagavi PS-65,5,4.0,1,1,4,1
+337,Belagavi PS-66,5,4.0,1,1,4,1
+338,Belagavi PS-67,5,4.0,1,1,4,1
+339,Belagavi PS-68,5,4.0,1,1,4,1
+340,Belagavi PS-69,5,4.0,1,1,4,1
+341,Belagavi PS-70,5,4.0,1,1,4,1
+342,Belagavi PS-71,5,4.0,1,1,4,1
+343,Belagavi PS-72,5,4.0,1,1,4,1
+344,Belagavi PS-73,5,4.0,1,1,4,1
+345,Belagavi PS-74,5,4.0,1,1,4,1
+346,Belagavi PS-75,5,4.0,1,1,4,1
+347,Belagavi PS-76,5,4.0,1,1,4,1
+348,Belagavi PS-77,5,4.0,1,1,4,1
+349,Belagavi PS-78,5,4.0,1,1,4,1
+350,Belagavi PS-79,5,4.0,1,1,4,1
+351,Belagavi PS-80,5,4.0,1,1,4,1
+352,Belagavi PS-81,5,4.0,1,1,4,1
+353,Belagavi PS-82,5,4.0,1,1,4,1
+354,Belagavi PS-83,5,4.0,1,1,4,1
+355,Belagavi PS-84,5,4.0,1,1,4,1
+356,Belagavi PS-85,5,4.0,1,1,4,1
+357,Kalaburagi PS-1,5,5.0,1,1,5,1
+358,Kalaburagi PS-2,5,5.0,1,1,5,1
+359,Kalaburagi PS-3,5,5.0,1,1,5,1
+360,Kalaburagi PS-4,5,5.0,1,1,5,1
+361,Kalaburagi PS-5,5,5.0,1,1,5,1
+362,Kalaburagi PS-6,5,5.0,1,1,5,1
+363,Kalaburagi PS-7,5,5.0,1,1,5,1
+364,Kalaburagi PS-8,5,5.0,1,1,5,1
+365,Kalaburagi PS-9,5,5.0,1,1,5,1
+366,Kalaburagi PS-10,5,5.0,1,1,5,1
+367,Kalaburagi PS-11,5,5.0,1,1,5,1
+368,Kalaburagi PS-12,5,5.0,1,1,5,1
+369,Kalaburagi PS-13,5,5.0,1,1,5,1
+370,Kalaburagi PS-14,5,5.0,1,1,5,1
+371,Kalaburagi PS-15,5,5.0,1,1,5,1
+372,Kalaburagi PS-16,5,5.0,1,1,5,1
+373,Kalaburagi PS-17,5,5.0,1,1,5,1
+374,Kalaburagi PS-18,5,5.0,1,1,5,1
+375,Kalaburagi PS-19,5,5.0,1,1,5,1
+376,Kalaburagi PS-20,5,5.0,1,1,5,1
+377,Kalaburagi PS-21,5,5.0,1,1,5,1
+378,Kalaburagi PS-22,5,5.0,1,1,5,1
+379,Kalaburagi PS-23,5,5.0,1,1,5,1
+380,Kalaburagi PS-24,5,5.0,1,1,5,1
+381,Kalaburagi PS-25,5,5.0,1,1,5,1
+382,Kalaburagi PS-26,5,5.0,1,1,5,1
+383,Kalaburagi PS-27,5,5.0,1,1,5,1
+384,Kalaburagi PS-28,5,5.0,1,1,5,1
+385,Kalaburagi PS-29,5,5.0,1,1,5,1
+386,Kalaburagi PS-30,5,5.0,1,1,5,1
+387,Kalaburagi PS-31,5,5.0,1,1,5,1
+388,Kalaburagi PS-32,5,5.0,1,1,5,1
+389,Kalaburagi PS-33,5,5.0,1,1,5,1
+390,Kalaburagi PS-34,5,5.0,1,1,5,1
+391,Kalaburagi PS-35,5,5.0,1,1,5,1
+392,Kalaburagi PS-36,5,5.0,1,1,5,1
+393,Kalaburagi PS-37,5,5.0,1,1,5,1
+394,Kalaburagi PS-38,5,5.0,1,1,5,1
+395,Kalaburagi PS-39,5,5.0,1,1,5,1
+396,Kalaburagi PS-40,5,5.0,1,1,5,1
+397,Kalaburagi PS-41,5,5.0,1,1,5,1
+398,Kalaburagi PS-42,5,5.0,1,1,5,1
+399,Kalaburagi PS-43,5,5.0,1,1,5,1
+400,Kalaburagi PS-44,5,5.0,1,1,5,1
+401,Tumakuru PS-1,5,6.0,1,1,6,1
+402,Tumakuru PS-2,5,6.0,1,1,6,1
+403,Tumakuru PS-3,5,6.0,1,1,6,1
+404,Tumakuru PS-4,5,6.0,1,1,6,1
+405,Tumakuru PS-5,5,6.0,1,1,6,1
+406,Tumakuru PS-6,5,6.0,1,1,6,1
+407,Tumakuru PS-7,5,6.0,1,1,6,1
+408,Tumakuru PS-8,5,6.0,1,1,6,1
+409,Tumakuru PS-9,5,6.0,1,1,6,1
+410,Tumakuru PS-10,5,6.0,1,1,6,1
+411,Tumakuru PS-11,5,6.0,1,1,6,1
+412,Tumakuru PS-12,5,6.0,1,1,6,1
+413,Tumakuru PS-13,5,6.0,1,1,6,1
+414,Tumakuru PS-14,5,6.0,1,1,6,1
+415,Tumakuru PS-15,5,6.0,1,1,6,1
+416,Tumakuru PS-16,5,6.0,1,1,6,1
+417,Tumakuru PS-17,5,6.0,1,1,6,1
+418,Tumakuru PS-18,5,6.0,1,1,6,1
+419,Tumakuru PS-19,5,6.0,1,1,6,1
+420,Tumakuru PS-20,5,6.0,1,1,6,1
+421,Tumakuru PS-21,5,6.0,1,1,6,1
+422,Tumakuru PS-22,5,6.0,1,1,6,1
+423,Tumakuru PS-23,5,6.0,1,1,6,1
+424,Tumakuru PS-24,5,6.0,1,1,6,1
+425,Tumakuru PS-25,5,6.0,1,1,6,1
+426,Tumakuru PS-26,5,6.0,1,1,6,1
+427,Tumakuru PS-27,5,6.0,1,1,6,1
+428,Tumakuru PS-28,5,6.0,1,1,6,1
+429,Tumakuru PS-29,5,6.0,1,1,6,1
+430,Tumakuru PS-30,5,6.0,1,1,6,1
+431,Tumakuru PS-31,5,6.0,1,1,6,1
+432,Tumakuru PS-32,5,6.0,1,1,6,1
+433,Tumakuru PS-33,5,6.0,1,1,6,1
+434,Tumakuru PS-34,5,6.0,1,1,6,1
+435,Tumakuru PS-35,5,6.0,1,1,6,1
+436,Tumakuru PS-36,5,6.0,1,1,6,1
+437,Tumakuru PS-37,5,6.0,1,1,6,1
+438,Tumakuru PS-38,5,6.0,1,1,6,1
+439,Tumakuru PS-39,5,6.0,1,1,6,1
+440,Tumakuru PS-40,5,6.0,1,1,6,1
+441,Tumakuru PS-41,5,6.0,1,1,6,1
+442,Tumakuru PS-42,5,6.0,1,1,6,1
+443,Tumakuru PS-43,5,6.0,1,1,6,1
+444,Tumakuru PS-44,5,6.0,1,1,6,1
+445,Tumakuru PS-45,5,6.0,1,1,6,1
+446,Tumakuru PS-46,5,6.0,1,1,6,1
+447,Tumakuru PS-47,5,6.0,1,1,6,1
+448,Tumakuru PS-48,5,6.0,1,1,6,1
+449,Ballari PS-1,5,7.0,1,1,7,1
+450,Ballari PS-2,5,7.0,1,1,7,1
+451,Ballari PS-3,5,7.0,1,1,7,1
+452,Ballari PS-4,5,7.0,1,1,7,1
+453,Ballari PS-5,5,7.0,1,1,7,1
+454,Ballari PS-6,5,7.0,1,1,7,1
+455,Ballari PS-7,5,7.0,1,1,7,1
+456,Ballari PS-8,5,7.0,1,1,7,1
+457,Ballari PS-9,5,7.0,1,1,7,1
+458,Ballari PS-10,5,7.0,1,1,7,1
+459,Ballari PS-11,5,7.0,1,1,7,1
+460,Ballari PS-12,5,7.0,1,1,7,1
+461,Ballari PS-13,5,7.0,1,1,7,1
+462,Ballari PS-14,5,7.0,1,1,7,1
+463,Ballari PS-15,5,7.0,1,1,7,1
+464,Ballari PS-16,5,7.0,1,1,7,1
+465,Ballari PS-17,5,7.0,1,1,7,1
+466,Ballari PS-18,5,7.0,1,1,7,1
+467,Ballari PS-19,5,7.0,1,1,7,1
+468,Ballari PS-20,5,7.0,1,1,7,1
+469,Ballari PS-21,5,7.0,1,1,7,1
+470,Ballari PS-22,5,7.0,1,1,7,1
+471,Ballari PS-23,5,7.0,1,1,7,1
+472,Ballari PS-24,5,7.0,1,1,7,1
+473,Ballari PS-25,5,7.0,1,1,7,1
+474,Ballari PS-26,5,7.0,1,1,7,1
+475,Ballari PS-27,5,7.0,1,1,7,1
+476,Ballari PS-28,5,7.0,1,1,7,1
+477,Ballari PS-29,5,7.0,1,1,7,1
+478,Ballari PS-30,5,7.0,1,1,7,1
+479,Ballari PS-31,5,7.0,1,1,7,1
+480,Ballari PS-32,5,7.0,1,1,7,1
+481,Ballari PS-33,5,7.0,1,1,7,1
+482,Ballari PS-34,5,7.0,1,1,7,1
+483,Ballari PS-35,5,7.0,1,1,7,1
+484,Ballari PS-36,5,7.0,1,1,7,1
+485,Ballari PS-37,5,7.0,1,1,7,1
+486,Ballari PS-38,5,7.0,1,1,7,1
+487,Ballari PS-39,5,7.0,1,1,7,1
+488,Vijayapura PS-1,5,8.0,1,1,8,1
+489,Vijayapura PS-2,5,8.0,1,1,8,1
+490,Vijayapura PS-3,5,8.0,1,1,8,1
+491,Vijayapura PS-4,5,8.0,1,1,8,1
+492,Vijayapura PS-5,5,8.0,1,1,8,1
+493,Vijayapura PS-6,5,8.0,1,1,8,1
+494,Vijayapura PS-7,5,8.0,1,1,8,1
+495,Vijayapura PS-8,5,8.0,1,1,8,1
+496,Vijayapura PS-9,5,8.0,1,1,8,1
+497,Vijayapura PS-10,5,8.0,1,1,8,1
+498,Vijayapura PS-11,5,8.0,1,1,8,1
+499,Vijayapura PS-12,5,8.0,1,1,8,1
+500,Vijayapura PS-13,5,8.0,1,1,8,1
+501,Vijayapura PS-14,5,8.0,1,1,8,1
+502,Vijayapura PS-15,5,8.0,1,1,8,1
+503,Vijayapura PS-16,5,8.0,1,1,8,1
+504,Vijayapura PS-17,5,8.0,1,1,8,1
+505,Vijayapura PS-18,5,8.0,1,1,8,1
+506,Vijayapura PS-19,5,8.0,1,1,8,1
+507,Vijayapura PS-20,5,8.0,1,1,8,1
+508,Vijayapura PS-21,5,8.0,1,1,8,1
+509,Vijayapura PS-22,5,8.0,1,1,8,1
+510,Vijayapura PS-23,5,8.0,1,1,8,1
+511,Vijayapura PS-24,5,8.0,1,1,8,1
+512,Vijayapura PS-25,5,8.0,1,1,8,1
+513,Vijayapura PS-26,5,8.0,1,1,8,1
+514,Vijayapura PS-27,5,8.0,1,1,8,1
+515,Vijayapura PS-28,5,8.0,1,1,8,1
+516,Vijayapura PS-29,5,8.0,1,1,8,1
+517,Vijayapura PS-30,5,8.0,1,1,8,1
+518,Vijayapura PS-31,5,8.0,1,1,8,1
+519,Vijayapura PS-32,5,8.0,1,1,8,1
+520,Vijayapura PS-33,5,8.0,1,1,8,1
+521,Vijayapura PS-34,5,8.0,1,1,8,1
+522,Dharwad PS-1,5,9.0,1,1,9,1
+523,Dharwad PS-2,5,9.0,1,1,9,1
+524,Dharwad PS-3,5,9.0,1,1,9,1
+525,Dharwad PS-4,5,9.0,1,1,9,1
+526,Dharwad PS-5,5,9.0,1,1,9,1
+527,Dharwad PS-6,5,9.0,1,1,9,1
+528,Dharwad PS-7,5,9.0,1,1,9,1
+529,Dharwad PS-8,5,9.0,1,1,9,1
+530,Dharwad PS-9,5,9.0,1,1,9,1
+531,Dharwad PS-10,5,9.0,1,1,9,1
+532,Dharwad PS-11,5,9.0,1,1,9,1
+533,Dharwad PS-12,5,9.0,1,1,9,1
+534,Dharwad PS-13,5,9.0,1,1,9,1
+535,Dharwad PS-14,5,9.0,1,1,9,1
+536,Dharwad PS-15,5,9.0,1,1,9,1
+537,Dharwad PS-16,5,9.0,1,1,9,1
+538,Dharwad PS-17,5,9.0,1,1,9,1
+539,Dharwad PS-18,5,9.0,1,1,9,1
+540,Dharwad PS-19,5,9.0,1,1,9,1
+541,Dharwad PS-20,5,9.0,1,1,9,1
+542,Dharwad PS-21,5,9.0,1,1,9,1
+543,Dharwad PS-22,5,9.0,1,1,9,1
+544,Dharwad PS-23,5,9.0,1,1,9,1
+545,Dharwad PS-24,5,9.0,1,1,9,1
+546,Dharwad PS-25,5,9.0,1,1,9,1
+547,Dharwad PS-26,5,9.0,1,1,9,1
+548,Dharwad PS-27,5,9.0,1,1,9,1
+549,Dharwad PS-28,5,9.0,1,1,9,1
+550,Dharwad PS-29,5,9.0,1,1,9,1
+551,Dharwad PS-30,5,9.0,1,1,9,1
+552,Dharwad PS-31,5,9.0,1,1,9,1
+553,Dharwad PS-32,5,9.0,1,1,9,1
+554,Dakshina Kannada PS-1,5,10.0,1,1,10,1
+555,Dakshina Kannada PS-2,5,10.0,1,1,10,1
+556,Dakshina Kannada PS-3,5,10.0,1,1,10,1
+557,Dakshina Kannada PS-4,5,10.0,1,1,10,1
+558,Dakshina Kannada PS-5,5,10.0,1,1,10,1
+559,Dakshina Kannada PS-6,5,10.0,1,1,10,1
+560,Dakshina Kannada PS-7,5,10.0,1,1,10,1
+561,Dakshina Kannada PS-8,5,10.0,1,1,10,1
+562,Dakshina Kannada PS-9,5,10.0,1,1,10,1
+563,Dakshina Kannada PS-10,5,10.0,1,1,10,1
+564,Dakshina Kannada PS-11,5,10.0,1,1,10,1
+565,Dakshina Kannada PS-12,5,10.0,1,1,10,1
+566,Dakshina Kannada PS-13,5,10.0,1,1,10,1
+567,Dakshina Kannada PS-14,5,10.0,1,1,10,1
+568,Dakshina Kannada PS-15,5,10.0,1,1,10,1
+569,Dakshina Kannada PS-16,5,10.0,1,1,10,1
+570,Dakshina Kannada PS-17,5,10.0,1,1,10,1
+571,Dakshina Kannada PS-18,5,10.0,1,1,10,1
+572,Dakshina Kannada PS-19,5,10.0,1,1,10,1
+573,Dakshina Kannada PS-20,5,10.0,1,1,10,1
+574,Dakshina Kannada PS-21,5,10.0,1,1,10,1
+575,Dakshina Kannada PS-22,5,10.0,1,1,10,1
+576,Dakshina Kannada PS-23,5,10.0,1,1,10,1
+577,Dakshina Kannada PS-24,5,10.0,1,1,10,1
+578,Dakshina Kannada PS-25,5,10.0,1,1,10,1
+579,Dakshina Kannada PS-26,5,10.0,1,1,10,1
+580,Dakshina Kannada PS-27,5,10.0,1,1,10,1
+581,Dakshina Kannada PS-28,5,10.0,1,1,10,1
+582,Dakshina Kannada PS-29,5,10.0,1,1,10,1
+583,Dakshina Kannada PS-30,5,10.0,1,1,10,1
+584,Dakshina Kannada PS-31,5,10.0,1,1,10,1
+585,Dakshina Kannada PS-32,5,10.0,1,1,10,1
+586,Dakshina Kannada PS-33,5,10.0,1,1,10,1
+587,Dakshina Kannada PS-34,5,10.0,1,1,10,1
+588,Dakshina Kannada PS-35,5,10.0,1,1,10,1
+589,Dakshina Kannada PS-36,5,10.0,1,1,10,1
+590,Dakshina Kannada PS-37,5,10.0,1,1,10,1
+591,Shivamogga PS-1,5,11.0,1,1,11,1
+592,Shivamogga PS-2,5,11.0,1,1,11,1
+593,Shivamogga PS-3,5,11.0,1,1,11,1
+594,Shivamogga PS-4,5,11.0,1,1,11,1
+595,Shivamogga PS-5,5,11.0,1,1,11,1
+596,Shivamogga PS-6,5,11.0,1,1,11,1
+597,Shivamogga PS-7,5,11.0,1,1,11,1
+598,Shivamogga PS-8,5,11.0,1,1,11,1
+599,Shivamogga PS-9,5,11.0,1,1,11,1
+600,Shivamogga PS-10,5,11.0,1,1,11,1
+601,Shivamogga PS-11,5,11.0,1,1,11,1
+602,Shivamogga PS-12,5,11.0,1,1,11,1
+603,Shivamogga PS-13,5,11.0,1,1,11,1
+604,Shivamogga PS-14,5,11.0,1,1,11,1
+605,Shivamogga PS-15,5,11.0,1,1,11,1
+606,Shivamogga PS-16,5,11.0,1,1,11,1
+607,Shivamogga PS-17,5,11.0,1,1,11,1
+608,Shivamogga PS-18,5,11.0,1,1,11,1
+609,Shivamogga PS-19,5,11.0,1,1,11,1
+610,Shivamogga PS-20,5,11.0,1,1,11,1
+611,Shivamogga PS-21,5,11.0,1,1,11,1
+612,Shivamogga PS-22,5,11.0,1,1,11,1
+613,Shivamogga PS-23,5,11.0,1,1,11,1
+614,Shivamogga PS-24,5,11.0,1,1,11,1
+615,Shivamogga PS-25,5,11.0,1,1,11,1
+616,Shivamogga PS-26,5,11.0,1,1,11,1
+617,Shivamogga PS-27,5,11.0,1,1,11,1
+618,Shivamogga PS-28,5,11.0,1,1,11,1
+619,Shivamogga PS-29,5,11.0,1,1,11,1
+620,Shivamogga PS-30,5,11.0,1,1,11,1
+621,Shivamogga PS-31,5,11.0,1,1,11,1
+622,Shivamogga PS-32,5,11.0,1,1,11,1
+623,Mandya PS-1,5,12.0,1,1,12,1
+624,Mandya PS-2,5,12.0,1,1,12,1
+625,Mandya PS-3,5,12.0,1,1,12,1
+626,Mandya PS-4,5,12.0,1,1,12,1
+627,Mandya PS-5,5,12.0,1,1,12,1
+628,Mandya PS-6,5,12.0,1,1,12,1
+629,Mandya PS-7,5,12.0,1,1,12,1
+630,Mandya PS-8,5,12.0,1,1,12,1
+631,Mandya PS-9,5,12.0,1,1,12,1
+632,Mandya PS-10,5,12.0,1,1,12,1
+633,Mandya PS-11,5,12.0,1,1,12,1
+634,Mandya PS-12,5,12.0,1,1,12,1
+635,Mandya PS-13,5,12.0,1,1,12,1
+636,Mandya PS-14,5,12.0,1,1,12,1
+637,Mandya PS-15,5,12.0,1,1,12,1
+638,Mandya PS-16,5,12.0,1,1,12,1
+639,Mandya PS-17,5,12.0,1,1,12,1
+640,Mandya PS-18,5,12.0,1,1,12,1
+641,Mandya PS-19,5,12.0,1,1,12,1
+642,Mandya PS-20,5,12.0,1,1,12,1
+643,Mandya PS-21,5,12.0,1,1,12,1
+644,Mandya PS-22,5,12.0,1,1,12,1
+645,Mandya PS-23,5,12.0,1,1,12,1
+646,Mandya PS-24,5,12.0,1,1,12,1
+647,Mandya PS-25,5,12.0,1,1,12,1
+648,Mandya PS-26,5,12.0,1,1,12,1
+649,Mandya PS-27,5,12.0,1,1,12,1
+650,Mandya PS-28,5,12.0,1,1,12,1
+651,Mandya PS-29,5,12.0,1,1,12,1
+652,Mandya PS-30,5,12.0,1,1,12,1
+653,Mandya PS-31,5,12.0,1,1,12,1
+654,Mandya PS-32,5,12.0,1,1,12,1
+655,Hassan PS-1,5,13.0,1,1,13,1
+656,Hassan PS-2,5,13.0,1,1,13,1
+657,Hassan PS-3,5,13.0,1,1,13,1
+658,Hassan PS-4,5,13.0,1,1,13,1
+659,Hassan PS-5,5,13.0,1,1,13,1
+660,Hassan PS-6,5,13.0,1,1,13,1
+661,Hassan PS-7,5,13.0,1,1,13,1
+662,Hassan PS-8,5,13.0,1,1,13,1
+663,Hassan PS-9,5,13.0,1,1,13,1
+664,Hassan PS-10,5,13.0,1,1,13,1
+665,Hassan PS-11,5,13.0,1,1,13,1
+666,Hassan PS-12,5,13.0,1,1,13,1
+667,Hassan PS-13,5,13.0,1,1,13,1
+668,Hassan PS-14,5,13.0,1,1,13,1
+669,Hassan PS-15,5,13.0,1,1,13,1
+670,Hassan PS-16,5,13.0,1,1,13,1
+671,Hassan PS-17,5,13.0,1,1,13,1
+672,Hassan PS-18,5,13.0,1,1,13,1
+673,Hassan PS-19,5,13.0,1,1,13,1
+674,Hassan PS-20,5,13.0,1,1,13,1
+675,Hassan PS-21,5,13.0,1,1,13,1
+676,Hassan PS-22,5,13.0,1,1,13,1
+677,Hassan PS-23,5,13.0,1,1,13,1
+678,Hassan PS-24,5,13.0,1,1,13,1
+679,Hassan PS-25,5,13.0,1,1,13,1
+680,Hassan PS-26,5,13.0,1,1,13,1
+681,Hassan PS-27,5,13.0,1,1,13,1
+682,Hassan PS-28,5,13.0,1,1,13,1
+683,Hassan PS-29,5,13.0,1,1,13,1
+684,Hassan PS-30,5,13.0,1,1,13,1
+685,Hassan PS-31,5,13.0,1,1,13,1
+686,Hassan PS-32,5,13.0,1,1,13,1
+687,Raichur PS-1,5,14.0,1,1,14,1
+688,Raichur PS-2,5,14.0,1,1,14,1
+689,Raichur PS-3,5,14.0,1,1,14,1
+690,Raichur PS-4,5,14.0,1,1,14,1
+691,Raichur PS-5,5,14.0,1,1,14,1
+692,Raichur PS-6,5,14.0,1,1,14,1
+693,Raichur PS-7,5,14.0,1,1,14,1
+694,Raichur PS-8,5,14.0,1,1,14,1
+695,Raichur PS-9,5,14.0,1,1,14,1
+696,Raichur PS-10,5,14.0,1,1,14,1
+697,Raichur PS-11,5,14.0,1,1,14,1
+698,Raichur PS-12,5,14.0,1,1,14,1
+699,Raichur PS-13,5,14.0,1,1,14,1
+700,Raichur PS-14,5,14.0,1,1,14,1
+701,Raichur PS-15,5,14.0,1,1,14,1
+702,Raichur PS-16,5,14.0,1,1,14,1
+703,Raichur PS-17,5,14.0,1,1,14,1
+704,Raichur PS-18,5,14.0,1,1,14,1
+705,Raichur PS-19,5,14.0,1,1,14,1
+706,Raichur PS-20,5,14.0,1,1,14,1
+707,Raichur PS-21,5,14.0,1,1,14,1
+708,Raichur PS-22,5,14.0,1,1,14,1
+709,Raichur PS-23,5,14.0,1,1,14,1
+710,Raichur PS-24,5,14.0,1,1,14,1
+711,Raichur PS-25,5,14.0,1,1,14,1
+712,Raichur PS-26,5,14.0,1,1,14,1
+713,Raichur PS-27,5,14.0,1,1,14,1
+714,Raichur PS-28,5,14.0,1,1,14,1
+715,Raichur PS-29,5,14.0,1,1,14,1
+716,Raichur PS-30,5,14.0,1,1,14,1
+717,Bidar PS-1,5,15.0,1,1,15,1
+718,Bidar PS-2,5,15.0,1,1,15,1
+719,Bidar PS-3,5,15.0,1,1,15,1
+720,Bidar PS-4,5,15.0,1,1,15,1
+721,Bidar PS-5,5,15.0,1,1,15,1
+722,Bidar PS-6,5,15.0,1,1,15,1
+723,Bidar PS-7,5,15.0,1,1,15,1
+724,Bidar PS-8,5,15.0,1,1,15,1
+725,Bidar PS-9,5,15.0,1,1,15,1
+726,Bidar PS-10,5,15.0,1,1,15,1
+727,Bidar PS-11,5,15.0,1,1,15,1
+728,Bidar PS-12,5,15.0,1,1,15,1
+729,Bidar PS-13,5,15.0,1,1,15,1
+730,Bidar PS-14,5,15.0,1,1,15,1
+731,Bidar PS-15,5,15.0,1,1,15,1
+732,Bidar PS-16,5,15.0,1,1,15,1
+733,Bidar PS-17,5,15.0,1,1,15,1
+734,Bidar PS-18,5,15.0,1,1,15,1
+735,Bidar PS-19,5,15.0,1,1,15,1
+736,Bidar PS-20,5,15.0,1,1,15,1
+737,Bidar PS-21,5,15.0,1,1,15,1
+738,Bidar PS-22,5,15.0,1,1,15,1
+739,Bidar PS-23,5,15.0,1,1,15,1
+740,Bidar PS-24,5,15.0,1,1,15,1
+741,Bidar PS-25,5,15.0,1,1,15,1
+742,Bidar PS-26,5,15.0,1,1,15,1
+743,Bidar PS-27,5,15.0,1,1,15,1
+744,Bidar PS-28,5,15.0,1,1,15,1
+745,Bagalkote PS-1,5,16.0,1,1,16,1
+746,Bagalkote PS-2,5,16.0,1,1,16,1
+747,Bagalkote PS-3,5,16.0,1,1,16,1
+748,Bagalkote PS-4,5,16.0,1,1,16,1
+749,Bagalkote PS-5,5,16.0,1,1,16,1
+750,Bagalkote PS-6,5,16.0,1,1,16,1
+751,Bagalkote PS-7,5,16.0,1,1,16,1
+752,Bagalkote PS-8,5,16.0,1,1,16,1
+753,Bagalkote PS-9,5,16.0,1,1,16,1
+754,Bagalkote PS-10,5,16.0,1,1,16,1
+755,Bagalkote PS-11,5,16.0,1,1,16,1
+756,Bagalkote PS-12,5,16.0,1,1,16,1
+757,Bagalkote PS-13,5,16.0,1,1,16,1
+758,Bagalkote PS-14,5,16.0,1,1,16,1
+759,Bagalkote PS-15,5,16.0,1,1,16,1
+760,Bagalkote PS-16,5,16.0,1,1,16,1
+761,Bagalkote PS-17,5,16.0,1,1,16,1
+762,Bagalkote PS-18,5,16.0,1,1,16,1
+763,Bagalkote PS-19,5,16.0,1,1,16,1
+764,Bagalkote PS-20,5,16.0,1,1,16,1
+765,Bagalkote PS-21,5,16.0,1,1,16,1
+766,Bagalkote PS-22,5,16.0,1,1,16,1
+767,Bagalkote PS-23,5,16.0,1,1,16,1
+768,Bagalkote PS-24,5,16.0,1,1,16,1
+769,Bagalkote PS-25,5,16.0,1,1,16,1
+770,Bagalkote PS-26,5,16.0,1,1,16,1
+771,Bagalkote PS-27,5,16.0,1,1,16,1
+772,Bagalkote PS-28,5,16.0,1,1,16,1
+773,Bagalkote PS-29,5,16.0,1,1,16,1
+774,Bagalkote PS-30,5,16.0,1,1,16,1
+775,Bagalkote PS-31,5,16.0,1,1,16,1
+776,Chitradurga PS-1,5,17.0,1,1,17,1
+777,Chitradurga PS-2,5,17.0,1,1,17,1
+778,Chitradurga PS-3,5,17.0,1,1,17,1
+779,Chitradurga PS-4,5,17.0,1,1,17,1
+780,Chitradurga PS-5,5,17.0,1,1,17,1
+781,Chitradurga PS-6,5,17.0,1,1,17,1
+782,Chitradurga PS-7,5,17.0,1,1,17,1
+783,Chitradurga PS-8,5,17.0,1,1,17,1
+784,Chitradurga PS-9,5,17.0,1,1,17,1
+785,Chitradurga PS-10,5,17.0,1,1,17,1
+786,Chitradurga PS-11,5,17.0,1,1,17,1
+787,Chitradurga PS-12,5,17.0,1,1,17,1
+788,Chitradurga PS-13,5,17.0,1,1,17,1
+789,Chitradurga PS-14,5,17.0,1,1,17,1
+790,Chitradurga PS-15,5,17.0,1,1,17,1
+791,Chitradurga PS-16,5,17.0,1,1,17,1
+792,Chitradurga PS-17,5,17.0,1,1,17,1
+793,Chitradurga PS-18,5,17.0,1,1,17,1
+794,Chitradurga PS-19,5,17.0,1,1,17,1
+795,Chitradurga PS-20,5,17.0,1,1,17,1
+796,Chitradurga PS-21,5,17.0,1,1,17,1
+797,Chitradurga PS-22,5,17.0,1,1,17,1
+798,Chitradurga PS-23,5,17.0,1,1,17,1
+799,Chitradurga PS-24,5,17.0,1,1,17,1
+800,Chitradurga PS-25,5,17.0,1,1,17,1
+801,Chitradurga PS-26,5,17.0,1,1,17,1
+802,Chitradurga PS-27,5,17.0,1,1,17,1
+803,Chitradurga PS-28,5,17.0,1,1,17,1
+804,Chitradurga PS-29,5,17.0,1,1,17,1
+805,Chitradurga PS-30,5,17.0,1,1,17,1
+806,Kolar PS-1,5,18.0,1,1,18,1
+807,Kolar PS-2,5,18.0,1,1,18,1
+808,Kolar PS-3,5,18.0,1,1,18,1
+809,Kolar PS-4,5,18.0,1,1,18,1
+810,Kolar PS-5,5,18.0,1,1,18,1
+811,Kolar PS-6,5,18.0,1,1,18,1
+812,Kolar PS-7,5,18.0,1,1,18,1
+813,Kolar PS-8,5,18.0,1,1,18,1
+814,Kolar PS-9,5,18.0,1,1,18,1
+815,Kolar PS-10,5,18.0,1,1,18,1
+816,Kolar PS-11,5,18.0,1,1,18,1
+817,Kolar PS-12,5,18.0,1,1,18,1
+818,Kolar PS-13,5,18.0,1,1,18,1
+819,Kolar PS-14,5,18.0,1,1,18,1
+820,Kolar PS-15,5,18.0,1,1,18,1
+821,Kolar PS-16,5,18.0,1,1,18,1
+822,Kolar PS-17,5,18.0,1,1,18,1
+823,Kolar PS-18,5,18.0,1,1,18,1
+824,Kolar PS-19,5,18.0,1,1,18,1
+825,Kolar PS-20,5,18.0,1,1,18,1
+826,Kolar PS-21,5,18.0,1,1,18,1
+827,Kolar PS-22,5,18.0,1,1,18,1
+828,Kolar PS-23,5,18.0,1,1,18,1
+829,Kolar PS-24,5,18.0,1,1,18,1
+830,Kolar PS-25,5,18.0,1,1,18,1
+831,Kolar PS-26,5,18.0,1,1,18,1
+832,Kolar PS-27,5,18.0,1,1,18,1
+833,Kolar PS-28,5,18.0,1,1,18,1
+834,Udupi PS-1,5,19.0,1,1,19,1
+835,Udupi PS-2,5,19.0,1,1,19,1
+836,Udupi PS-3,5,19.0,1,1,19,1
+837,Udupi PS-4,5,19.0,1,1,19,1
+838,Udupi PS-5,5,19.0,1,1,19,1
+839,Udupi PS-6,5,19.0,1,1,19,1
+840,Udupi PS-7,5,19.0,1,1,19,1
+841,Udupi PS-8,5,19.0,1,1,19,1
+842,Udupi PS-9,5,19.0,1,1,19,1
+843,Udupi PS-10,5,19.0,1,1,19,1
+844,Udupi PS-11,5,19.0,1,1,19,1
+845,Udupi PS-12,5,19.0,1,1,19,1
+846,Udupi PS-13,5,19.0,1,1,19,1
+847,Udupi PS-14,5,19.0,1,1,19,1
+848,Udupi PS-15,5,19.0,1,1,19,1
+849,Udupi PS-16,5,19.0,1,1,19,1
+850,Udupi PS-17,5,19.0,1,1,19,1
+851,Udupi PS-18,5,19.0,1,1,19,1
+852,Udupi PS-19,5,19.0,1,1,19,1
+853,Udupi PS-20,5,19.0,1,1,19,1
+854,Udupi PS-21,5,19.0,1,1,19,1
+855,Udupi PS-22,5,19.0,1,1,19,1
+856,Udupi PS-23,5,19.0,1,1,19,1
+857,Udupi PS-24,5,19.0,1,1,19,1
+858,Udupi PS-25,5,19.0,1,1,19,1
+859,Davanagere PS-1,5,20.0,1,1,20,1
+860,Davanagere PS-2,5,20.0,1,1,20,1
+861,Davanagere PS-3,5,20.0,1,1,20,1
+862,Davanagere PS-4,5,20.0,1,1,20,1
+863,Davanagere PS-5,5,20.0,1,1,20,1
+864,Davanagere PS-6,5,20.0,1,1,20,1
+865,Davanagere PS-7,5,20.0,1,1,20,1
+866,Davanagere PS-8,5,20.0,1,1,20,1
+867,Davanagere PS-9,5,20.0,1,1,20,1
+868,Davanagere PS-10,5,20.0,1,1,20,1
+869,Davanagere PS-11,5,20.0,1,1,20,1
+870,Davanagere PS-12,5,20.0,1,1,20,1
+871,Davanagere PS-13,5,20.0,1,1,20,1
+872,Davanagere PS-14,5,20.0,1,1,20,1
+873,Davanagere PS-15,5,20.0,1,1,20,1
+874,Davanagere PS-16,5,20.0,1,1,20,1
+875,Davanagere PS-17,5,20.0,1,1,20,1
+876,Davanagere PS-18,5,20.0,1,1,20,1
+877,Davanagere PS-19,5,20.0,1,1,20,1
+878,Davanagere PS-20,5,20.0,1,1,20,1
+879,Davanagere PS-21,5,20.0,1,1,20,1
+880,Davanagere PS-22,5,20.0,1,1,20,1
+881,Davanagere PS-23,5,20.0,1,1,20,1
+882,Davanagere PS-24,5,20.0,1,1,20,1
+883,Davanagere PS-25,5,20.0,1,1,20,1
+884,Davanagere PS-26,5,20.0,1,1,20,1
+885,Davanagere PS-27,5,20.0,1,1,20,1
+886,Davanagere PS-28,5,20.0,1,1,20,1
+887,Davanagere PS-29,5,20.0,1,1,20,1
+888,Davanagere PS-30,5,20.0,1,1,20,1
+889,Davanagere PS-31,5,20.0,1,1,20,1
+890,Davanagere PS-32,5,20.0,1,1,20,1
+891,Davanagere PS-33,5,20.0,1,1,20,1
+892,Davanagere PS-34,5,20.0,1,1,20,1
+893,Davanagere PS-35,5,20.0,1,1,20,1
+894,Chikkamagaluru PS-1,5,21.0,1,1,21,1
+895,Chikkamagaluru PS-2,5,21.0,1,1,21,1
+896,Chikkamagaluru PS-3,5,21.0,1,1,21,1
+897,Chikkamagaluru PS-4,5,21.0,1,1,21,1
+898,Chikkamagaluru PS-5,5,21.0,1,1,21,1
+899,Chikkamagaluru PS-6,5,21.0,1,1,21,1
+900,Chikkamagaluru PS-7,5,21.0,1,1,21,1
+901,Chikkamagaluru PS-8,5,21.0,1,1,21,1
+902,Chikkamagaluru PS-9,5,21.0,1,1,21,1
+903,Chikkamagaluru PS-10,5,21.0,1,1,21,1
+904,Chikkamagaluru PS-11,5,21.0,1,1,21,1
+905,Chikkamagaluru PS-12,5,21.0,1,1,21,1
+906,Chikkamagaluru PS-13,5,21.0,1,1,21,1
+907,Chikkamagaluru PS-14,5,21.0,1,1,21,1
+908,Chikkamagaluru PS-15,5,21.0,1,1,21,1
+909,Chikkamagaluru PS-16,5,21.0,1,1,21,1
+910,Chikkamagaluru PS-17,5,21.0,1,1,21,1
+911,Chikkamagaluru PS-18,5,21.0,1,1,21,1
+912,Chikkamagaluru PS-19,5,21.0,1,1,21,1
+913,Chikkamagaluru PS-20,5,21.0,1,1,21,1
+914,Chikkamagaluru PS-21,5,21.0,1,1,21,1
+915,Chikkamagaluru PS-22,5,21.0,1,1,21,1
+916,Chikkamagaluru PS-23,5,21.0,1,1,21,1
+917,Koppal PS-1,5,22.0,1,1,22,1
+918,Koppal PS-2,5,22.0,1,1,22,1
+919,Koppal PS-3,5,22.0,1,1,22,1
+920,Koppal PS-4,5,22.0,1,1,22,1
+921,Koppal PS-5,5,22.0,1,1,22,1
+922,Koppal PS-6,5,22.0,1,1,22,1
+923,Koppal PS-7,5,22.0,1,1,22,1
+924,Koppal PS-8,5,22.0,1,1,22,1
+925,Koppal PS-9,5,22.0,1,1,22,1
+926,Koppal PS-10,5,22.0,1,1,22,1
+927,Koppal PS-11,5,22.0,1,1,22,1
+928,Koppal PS-12,5,22.0,1,1,22,1
+929,Koppal PS-13,5,22.0,1,1,22,1
+930,Koppal PS-14,5,22.0,1,1,22,1
+931,Koppal PS-15,5,22.0,1,1,22,1
+932,Koppal PS-16,5,22.0,1,1,22,1
+933,Koppal PS-17,5,22.0,1,1,22,1
+934,Koppal PS-18,5,22.0,1,1,22,1
+935,Koppal PS-19,5,22.0,1,1,22,1
+936,Koppal PS-20,5,22.0,1,1,22,1
+937,Koppal PS-21,5,22.0,1,1,22,1
+938,Koppal PS-22,5,22.0,1,1,22,1
+939,Koppal PS-23,5,22.0,1,1,22,1
+940,Koppal PS-24,5,22.0,1,1,22,1
+941,Koppal PS-25,5,22.0,1,1,22,1
+942,Haveri PS-1,5,23.0,1,1,23,1
+943,Haveri PS-2,5,23.0,1,1,23,1
+944,Haveri PS-3,5,23.0,1,1,23,1
+945,Haveri PS-4,5,23.0,1,1,23,1
+946,Haveri PS-5,5,23.0,1,1,23,1
+947,Haveri PS-6,5,23.0,1,1,23,1
+948,Haveri PS-7,5,23.0,1,1,23,1
+949,Haveri PS-8,5,23.0,1,1,23,1
+950,Haveri PS-9,5,23.0,1,1,23,1
+951,Haveri PS-10,5,23.0,1,1,23,1
+952,Haveri PS-11,5,23.0,1,1,23,1
+953,Haveri PS-12,5,23.0,1,1,23,1
+954,Haveri PS-13,5,23.0,1,1,23,1
+955,Haveri PS-14,5,23.0,1,1,23,1
+956,Haveri PS-15,5,23.0,1,1,23,1
+957,Haveri PS-16,5,23.0,1,1,23,1
+958,Haveri PS-17,5,23.0,1,1,23,1
+959,Haveri PS-18,5,23.0,1,1,23,1
+960,Haveri PS-19,5,23.0,1,1,23,1
+961,Haveri PS-20,5,23.0,1,1,23,1
+962,Haveri PS-21,5,23.0,1,1,23,1
+963,Haveri PS-22,5,23.0,1,1,23,1
+964,Haveri PS-23,5,23.0,1,1,23,1
+965,Haveri PS-24,5,23.0,1,1,23,1
+966,Haveri PS-25,5,23.0,1,1,23,1
+967,Haveri PS-26,5,23.0,1,1,23,1
+968,Haveri PS-27,5,23.0,1,1,23,1
+969,Haveri PS-28,5,23.0,1,1,23,1
+970,Haveri PS-29,5,23.0,1,1,23,1
+971,Chamarajanagara PS-1,5,24.0,1,1,24,1
+972,Chamarajanagara PS-2,5,24.0,1,1,24,1
+973,Chamarajanagara PS-3,5,24.0,1,1,24,1
+974,Chamarajanagara PS-4,5,24.0,1,1,24,1
+975,Chamarajanagara PS-5,5,24.0,1,1,24,1
+976,Chamarajanagara PS-6,5,24.0,1,1,24,1
+977,Chamarajanagara PS-7,5,24.0,1,1,24,1
+978,Chamarajanagara PS-8,5,24.0,1,1,24,1
+979,Chamarajanagara PS-9,5,24.0,1,1,24,1
+980,Chamarajanagara PS-10,5,24.0,1,1,24,1
+981,Chamarajanagara PS-11,5,24.0,1,1,24,1
+982,Chamarajanagara PS-12,5,24.0,1,1,24,1
+983,Chamarajanagara PS-13,5,24.0,1,1,24,1
+984,Chamarajanagara PS-14,5,24.0,1,1,24,1
+985,Chamarajanagara PS-15,5,24.0,1,1,24,1
+986,Chamarajanagara PS-16,5,24.0,1,1,24,1
+987,Chamarajanagara PS-17,5,24.0,1,1,24,1
+988,Chamarajanagara PS-18,5,24.0,1,1,24,1
+989,Chamarajanagara PS-19,5,24.0,1,1,24,1
+990,Chamarajanagara PS-20,5,24.0,1,1,24,1
+991,Chamarajanagara PS-21,5,24.0,1,1,24,1
+992,Gadag PS-1,5,25.0,1,1,25,1
+993,Gadag PS-2,5,25.0,1,1,25,1
+994,Gadag PS-3,5,25.0,1,1,25,1
+995,Gadag PS-4,5,25.0,1,1,25,1
+996,Gadag PS-5,5,25.0,1,1,25,1
+997,Gadag PS-6,5,25.0,1,1,25,1
+998,Gadag PS-7,5,25.0,1,1,25,1
+999,Gadag PS-8,5,25.0,1,1,25,1
+1000,Gadag PS-9,5,25.0,1,1,25,1
+1001,Gadag PS-10,5,25.0,1,1,25,1
+1002,Gadag PS-11,5,25.0,1,1,25,1
+1003,Gadag PS-12,5,25.0,1,1,25,1
+1004,Gadag PS-13,5,25.0,1,1,25,1
+1005,Gadag PS-14,5,25.0,1,1,25,1
+1006,Gadag PS-15,5,25.0,1,1,25,1
+1007,Gadag PS-16,5,25.0,1,1,25,1
+1008,Gadag PS-17,5,25.0,1,1,25,1
+1009,Gadag PS-18,5,25.0,1,1,25,1
+1010,Uttara Kannada PS-1,5,26.0,1,1,26,1
+1011,Uttara Kannada PS-2,5,26.0,1,1,26,1
+1012,Uttara Kannada PS-3,5,26.0,1,1,26,1
+1013,Uttara Kannada PS-4,5,26.0,1,1,26,1
+1014,Uttara Kannada PS-5,5,26.0,1,1,26,1
+1015,Uttara Kannada PS-6,5,26.0,1,1,26,1
+1016,Uttara Kannada PS-7,5,26.0,1,1,26,1
+1017,Uttara Kannada PS-8,5,26.0,1,1,26,1
+1018,Uttara Kannada PS-9,5,26.0,1,1,26,1
+1019,Uttara Kannada PS-10,5,26.0,1,1,26,1
+1020,Uttara Kannada PS-11,5,26.0,1,1,26,1
+1021,Uttara Kannada PS-12,5,26.0,1,1,26,1
+1022,Uttara Kannada PS-13,5,26.0,1,1,26,1
+1023,Uttara Kannada PS-14,5,26.0,1,1,26,1
+1024,Uttara Kannada PS-15,5,26.0,1,1,26,1
+1025,Uttara Kannada PS-16,5,26.0,1,1,26,1
+1026,Uttara Kannada PS-17,5,26.0,1,1,26,1
+1027,Uttara Kannada PS-18,5,26.0,1,1,26,1
+1028,Uttara Kannada PS-19,5,26.0,1,1,26,1
+1029,Uttara Kannada PS-20,5,26.0,1,1,26,1
+1030,Uttara Kannada PS-21,5,26.0,1,1,26,1
+1031,Uttara Kannada PS-22,5,26.0,1,1,26,1
+1032,Uttara Kannada PS-23,5,26.0,1,1,26,1
+1033,Uttara Kannada PS-24,5,26.0,1,1,26,1
+1034,Uttara Kannada PS-25,5,26.0,1,1,26,1
+1035,Uttara Kannada PS-26,5,26.0,1,1,26,1
+1036,Uttara Kannada PS-27,5,26.0,1,1,26,1
+1037,Yadgir PS-1,5,27.0,1,1,27,1
+1038,Yadgir PS-2,5,27.0,1,1,27,1
+1039,Yadgir PS-3,5,27.0,1,1,27,1
+1040,Yadgir PS-4,5,27.0,1,1,27,1
+1041,Yadgir PS-5,5,27.0,1,1,27,1
+1042,Yadgir PS-6,5,27.0,1,1,27,1
+1043,Yadgir PS-7,5,27.0,1,1,27,1
+1044,Yadgir PS-8,5,27.0,1,1,27,1
+1045,Yadgir PS-9,5,27.0,1,1,27,1
+1046,Yadgir PS-10,5,27.0,1,1,27,1
+1047,Yadgir PS-11,5,27.0,1,1,27,1
+1048,Yadgir PS-12,5,27.0,1,1,27,1
+1049,Yadgir PS-13,5,27.0,1,1,27,1
+1050,Yadgir PS-14,5,27.0,1,1,27,1
+1051,Yadgir PS-15,5,27.0,1,1,27,1
+1052,Yadgir PS-16,5,27.0,1,1,27,1
+1053,Yadgir PS-17,5,27.0,1,1,27,1
+1054,Yadgir PS-18,5,27.0,1,1,27,1
+1055,Yadgir PS-19,5,27.0,1,1,27,1
+1056,Yadgir PS-20,5,27.0,1,1,27,1
+1057,Yadgir PS-21,5,27.0,1,1,27,1
+1058,Kodagu PS-1,5,28.0,1,1,28,1
+1059,Kodagu PS-2,5,28.0,1,1,28,1
+1060,Kodagu PS-3,5,28.0,1,1,28,1
+1061,Kodagu PS-4,5,28.0,1,1,28,1
+1062,Kodagu PS-5,5,28.0,1,1,28,1
+1063,Kodagu PS-6,5,28.0,1,1,28,1
+1064,Kodagu PS-7,5,28.0,1,1,28,1
+1065,Kodagu PS-8,5,28.0,1,1,28,1
+1066,Kodagu PS-9,5,28.0,1,1,28,1
+1067,Kodagu PS-10,5,28.0,1,1,28,1
+1068,Chikkaballapura PS-1,5,29.0,1,1,29,1
+1069,Chikkaballapura PS-2,5,29.0,1,1,29,1
+1070,Chikkaballapura PS-3,5,29.0,1,1,29,1
+1071,Chikkaballapura PS-4,5,29.0,1,1,29,1
+1072,Chikkaballapura PS-5,5,29.0,1,1,29,1
+1073,Chikkaballapura PS-6,5,29.0,1,1,29,1
+1074,Chikkaballapura PS-7,5,29.0,1,1,29,1
+1075,Chikkaballapura PS-8,5,29.0,1,1,29,1
+1076,Chikkaballapura PS-9,5,29.0,1,1,29,1
+1077,Chikkaballapura PS-10,5,29.0,1,1,29,1
+1078,Chikkaballapura PS-11,5,29.0,1,1,29,1
+1079,Chikkaballapura PS-12,5,29.0,1,1,29,1
+1080,Chikkaballapura PS-13,5,29.0,1,1,29,1
+1081,Chikkaballapura PS-14,5,29.0,1,1,29,1
+1082,Chikkaballapura PS-15,5,29.0,1,1,29,1
+1083,Chikkaballapura PS-16,5,29.0,1,1,29,1
+1084,Chikkaballapura PS-17,5,29.0,1,1,29,1
+1085,Chikkaballapura PS-18,5,29.0,1,1,29,1
+1086,Chikkaballapura PS-19,5,29.0,1,1,29,1
+1087,Chikkaballapura PS-20,5,29.0,1,1,29,1
+1088,Chikkaballapura PS-21,5,29.0,1,1,29,1
+1089,Chikkaballapura PS-22,5,29.0,1,1,29,1
+1090,Chikkaballapura PS-23,5,29.0,1,1,29,1
+1091,Chikkaballapura PS-24,5,29.0,1,1,29,1
+1092,Ramanagara PS-1,5,30.0,1,1,30,1
+1093,Ramanagara PS-2,5,30.0,1,1,30,1
+1094,Ramanagara PS-3,5,30.0,1,1,30,1
+1095,Ramanagara PS-4,5,30.0,1,1,30,1
+1096,Ramanagara PS-5,5,30.0,1,1,30,1
+1097,Ramanagara PS-6,5,30.0,1,1,30,1
+1098,Ramanagara PS-7,5,30.0,1,1,30,1
+1099,Ramanagara PS-8,5,30.0,1,1,30,1
+1100,Ramanagara PS-9,5,30.0,1,1,30,1
+1101,Ramanagara PS-10,5,30.0,1,1,30,1
+1102,Ramanagara PS-11,5,30.0,1,1,30,1
+1103,Ramanagara PS-12,5,30.0,1,1,30,1
+1104,Ramanagara PS-13,5,30.0,1,1,30,1
+1105,Ramanagara PS-14,5,30.0,1,1,30,1
+1106,Ramanagara PS-15,5,30.0,1,1,30,1
+1107,Ramanagara PS-16,5,30.0,1,1,30,1
+1108,Ramanagara PS-17,5,30.0,1,1,30,1
+1109,Ramanagara PS-18,5,30.0,1,1,30,1
+1110,Vijayanagara PS-1,5,31.0,1,1,31,1
+1111,Vijayanagara PS-2,5,31.0,1,1,31,1
+1112,Vijayanagara PS-3,5,31.0,1,1,31,1
+1113,Vijayanagara PS-4,5,31.0,1,1,31,1
+1114,Vijayanagara PS-5,5,31.0,1,1,31,1
+1115,Vijayanagara PS-6,5,31.0,1,1,31,1
+1116,Vijayanagara PS-7,5,31.0,1,1,31,1
+1117,Vijayanagara PS-8,5,31.0,1,1,31,1
+1118,Vijayanagara PS-9,5,31.0,1,1,31,1
+1119,Vijayanagara PS-10,5,31.0,1,1,31,1
+1120,Vijayanagara PS-11,5,31.0,1,1,31,1
+1121,Vijayanagara PS-12,5,31.0,1,1,31,1
+1122,Vijayanagara PS-13,5,31.0,1,1,31,1
+1123,Vijayanagara PS-14,5,31.0,1,1,31,1
+1124,Vijayanagara PS-15,5,31.0,1,1,31,1
+1125,Vijayanagara PS-16,5,31.0,1,1,31,1
+1126,Vijayanagara PS-17,5,31.0,1,1,31,1
+1127,Vijayanagara PS-18,5,31.0,1,1,31,1
+1128,Vijayanagara PS-19,5,31.0,1,1,31,1
+1129,Vijayanagara PS-20,5,31.0,1,1,31,1
+1130,Vijayanagara PS-21,5,31.0,1,1,31,1
+1131,Vijayanagara PS-22,5,31.0,1,1,31,1
+1132,Vijayanagara PS-23,5,31.0,1,1,31,1
+1133,Vijayanagara PS-24,5,31.0,1,1,31,1
+1134,Vijayanagara PS-25,5,31.0,1,1,31,1

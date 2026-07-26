@@ -1,0 +1,7 @@
+UnitTypeID,UnitTypeName,CityDistState,Hierarchy,Active
+1,State Police Headquarters,State,1,1
+2,Range/Zone Office,State,2,1
+3,District SP Office,District,3,1
+4,Sub-Division / Circle Office,District,4,1
+5,Police Station,City,5,1
+6,Outpost,City,6,1
