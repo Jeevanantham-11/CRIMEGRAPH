@@ -4,7 +4,7 @@
 
 ![KSP Datathon 2026](https://img.shields.io/badge/KSP%20Datathon-2026-blue?style=for-the-badge)
 ![Challenge](https://img.shields.io/badge/Challenge-02%20Crime%20Analytics-red?style=for-the-badge)
-![Team](https://img.shields.io/badge/Team-INNOVATE-X-green?style=for-the-badge)
+
 
 **An end-to-end AI-powered crime analytics platform built for Karnataka State Police**  
 *Transforming fragmented crime records into actionable intelligence*
